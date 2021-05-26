@@ -13,7 +13,7 @@ hkey_current_usersoftwaremicrosoftwindowscurrentversionrun /v CONTROLexit /t reg
 PAUSE
 ```
 # URL
-```URL
+```link
 https://oceanofanythingofficial.github.io/disable-internet-parmanently-bat-file-virus/
 ```
 # Disclaimer
